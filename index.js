@@ -1,1 +1,1 @@
-var element = document.querySelector("nav ul li a")
+var element = document.querySelector("nav ul li a");
